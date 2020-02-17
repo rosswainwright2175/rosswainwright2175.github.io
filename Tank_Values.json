@@ -1,1 +1,6 @@
-﻿{"FluidLevel": 113,"FlowRate": 0,"ValvePosition": 50,"isTransferring": false}
+﻿{
+"FluidLevel": 113,
+"FlowRate": 0,
+"ValvePosition": 50,
+"isTransferring": false
+}
