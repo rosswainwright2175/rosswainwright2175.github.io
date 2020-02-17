@@ -1,6 +1,6 @@
 ﻿{
-"FluidLevel": 113,
-"FlowRate": 0,
-"ValvePosition": 50,
+"FluidLevel": 113.5,
+"FlowRate": 0.0,
+"ValvePosition": 50.0,
 "isTransferring": false
 }
