@@ -1,1 +1,6 @@
-﻿{"FluidLevel": 113.5,"FlowRate": 0.0,"ValvePosition": 50.0,"isTransferring": false}
+﻿{"inputs":[{
+"FluidLevel": 113.5,
+"FlowRate": 0.0,
+"ValvePosition": 50.0,
+"isTransferring": false}
+]}
