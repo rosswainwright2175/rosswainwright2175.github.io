@@ -1,1 +1,5 @@
-﻿{"FluidLevel": 113.5,"FlowRate": 1.25,"ValvePosition": 50.0,"isTransferring": false}
+﻿{"Tank1FluidLevel": 113.5,"Tank1FlowRate": 1.25,
+"Tank2FlowRate": 1.11, "Tank2FluidLevel": 113.5,
+"InboundPumpValvePosition": 50.0, "InboundPumpRate": 0.2, "InboundPumpVoltage": 24,
+"OutboundPumpValvePosition": 75, "OutboundPumpRate": 0.35, "OutboundPumpVoltage": 24,	
+"TransferPumpLeftValvePosition": 15, "TransferPumpRightValvePosition": 15, "TransferPumpRate": 0.12, "TransferPumpVoltage": 24}
