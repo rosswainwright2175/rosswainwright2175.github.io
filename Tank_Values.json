@@ -2,4 +2,4 @@
 "Tank2FlowRate": 3.4, "Tank2FluidLevel": 113.5,
 "InboundPumpValvePosition": 18.0, "InboundPumpRate": 0.031745, "InboundPumpVoltage": 24,
 "OutboundPumpValvePosition": 23.0, "OutboundPumpRate": 0.031745, "OutboundPumpVoltage": 24,	
-"TransferPumpLeftValvePosition": 86, "TransferPumpRightValvePosition": 86, "TransferPumpRate": 0.031545, "TransferPumpVoltage": 24}
+"TransferPumpLeftValvePosition": 86, "TransferPumpRightValvePosition": 86, "TransferPumpRate": 0.031745, "TransferPumpVoltage": 24}
