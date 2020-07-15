@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 287374946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e909344cbc69bb781c501c1cd547a72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 99c57eb733d6d31b6204e33ca6ae6e8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e7954b3afdba044799272ef7bf5c206, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86a2df34564f23e44a2ff09161975011, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f705e10c05355f642bc5d2ea8c9a9b49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c46416dfc1b96064ab91a5296bce1b6e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+Assets:
+- Assets/Asset Folders/Enviroment/enviroment/Office building/materials Building/Glass.mat
+- Assets/Asset Folders/Laboratory_Interior/Models/Materials/Props_Glass.mat
+- Assets/Asset Folders/Enviroment/enviroment/Office building/Prefabs/office building
+  Prefab.prefab
+Dependencies:
+- /Users/wwainwright/Desktop/ICS Course Visual Project/ICS Foundations Unity Project
+  2019/ICS Foundations/Assets/AssetBundles/labmaterialbundle
